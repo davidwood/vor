@@ -1,4 +1,3 @@
-vor
-===
+# vor
 
-Lightweight models for node.js and browsers
+`vor` provides lightweight model definition, change tracking, and validation for JSON and JavaScript objects.
